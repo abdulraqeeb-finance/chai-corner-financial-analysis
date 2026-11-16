@@ -82,3 +82,16 @@ All business information, sales transactions, expenses and financial results in 
 Project Type: Self-directed Portfolio Project
 Reporting Period: January–December 2024
 Location: Bengaluru, India
+## Project Screenshots
+
+### 1. Financial Performance Dashboard
+
+![Chai Corner Dashboard](./dashboard.png)
+
+### 2. Financial Statements
+
+![Monthly Financial Statements](./financial-statements..png)
+
+### 3. Financial Analysis
+
+![Profitability and Revenue Growth Analysis](./financial-analysis.png)
